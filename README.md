@@ -8,14 +8,18 @@ PrintSomething.java:  Java Code
 
 Why Java?
 
-    1. JAVA is easy to learn.
-    2. JAVA is freely available.we can
-    3. JAVA supports Object oriented Programming language.
-    4. JAVA is platform independent. Means if you have java file then tou can run it on any machine.
-    5. JAVA has large amount of libraries. JAVA provide networking, server programming, I/O,utilities, database connectivity, etc.
-    6. Java has a lot of open source libraries, which can use in diffrent scenarios.
-    7. A lot people uses java developement, thats why community of java developers is big.
-    8. 
+   1. JAVA is easy to learn, because well documented, and large amount of tutorials available over internet.
+2. JAVA is freely available.we can download java and start developement for free.
+3. JAVA supports Object oriented Programming language.
+4. JAVA is platform independent. Means if you have java file then tou can run it on any machine.
+5. JAVA has large amount of libraries. JAVA provide networking, server programming, I/O,utilities, database connectivity, etc.
+6. Java has a lot of open source libraries, which can use in diffrent scenarios.
+7. A lot people uses java developement, thats why community of java developers is big.
+8. Due to large scale of java developement, different types of developement tools are available in market.
+9. Java’s perfomance has been increased due to  JIT Compiler.
+10. Java is very flexible, it can used in graphics, desktop applications, Web Applications, etc.
+11. Java is secure, because before program execution bytecode verifier checks security rules.
+12. Java has good memory management like garbage collection, it allows developers to create new objects without worrying memory.It enables faster developement.
 
 
 PROGRAM:
